@@ -1,7 +1,6 @@
 import { useState } from "react";
-import { StyleSheet, Text, TextInput, View } from "react-native";
+import { StyleSheet, Text, TextInput, View } from "react-native"; // NUNCA react-native-web!
 import { Image } from 'expo-image'
-// NUNCA REACT NATIVE WEB !!!!
 
 export default function App() {
   // variáveis em React Native são estados / states
